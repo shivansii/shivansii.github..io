@@ -73,7 +73,7 @@ const Home = (props) => {
     return (
     <>
         <Helmet>
-            <title>Kartik Kapoor</title>
+            <title>Shivansi Prajapati</title>
         </Helmet>
 
 
@@ -83,7 +83,6 @@ const Home = (props) => {
             <img id="coffee-img" src={process.env.PUBLIC_URL+"/imgs/coffee_clipart.png"}></img>
             <img id="headphone-img" src={process.env.PUBLIC_URL+"/imgs/headphones_clipart.png"}></img>
             <div className="typewriter">
-                {/*<h1>Abigail Aunjoli Lindiwe Babtjie Tshijuka Kayembe</h1>*/}
                 <h1>Representing ...</h1>
             </div>
         </div>
